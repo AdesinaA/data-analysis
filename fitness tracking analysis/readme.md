@@ -17,7 +17,7 @@ Analyze Fitness Tracker App data to gain insights into how consumers are using t
 ### answers to the objective
 - What are the trends identified?
 
-Majority of users (81.3%) are using the FitBit app to track sedentary activities and not using it for tracking their health habits.
+Majority of users (84.2%) are using the FitBit app to track sedentary activities and not using it for tracking their health habits.
 
 Users prefer to track their activities during weekdays as compared to weekends - perhaps because they spend more time outside on weekdays and stay in on weekends.
 
