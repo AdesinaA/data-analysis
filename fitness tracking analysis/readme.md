@@ -12,4 +12,4 @@ Analyze Fitness Tracker App data to gain insights into how consumers are using t
 - Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 ### Dataset Used
-- the dataset used for this project can be accessed here
+- the dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/arashnic/fitbit)
