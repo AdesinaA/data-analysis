@@ -18,7 +18,7 @@ python for data cleaning, data transformation, data visualisation and data analy
 ### dataset used
 the dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
 
-### reports (objective response derived from the analysis)
+## reports (objective response derived from the analysis)
 what are the trends identified?
 majority of users (84.2%) are using the app to track sedentary activities and not using it for tracking their health habits.
 
