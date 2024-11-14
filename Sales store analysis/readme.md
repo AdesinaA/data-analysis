@@ -4,13 +4,21 @@
 determine weak areas and opportunities for a sales store to boost their business growth.
 
 ### objective
--
+- which category is best selling and most profitable
+- what are the best selling and most profitable sub-category
+- which is the top selling sub-category
+- which customer segment is most profitable
+- which is the preferred ship mode
+- which region is the most profitable
+- which city has the highest number of sales
 
 ### tools
 python for data cleaning, data transformation, data visualisation and data analysis
-dataset used
-the dataset used for this project can be accessed here
-reports (objective response derived from the analysis)
+
+### dataset used
+the dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
+
+### reports (objective response derived from the analysis)
 what are the trends identified?
 majority of users (84.2%) are using the app to track sedentary activities and not using it for tracking their health habits.
 
