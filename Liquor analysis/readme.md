@@ -15,7 +15,7 @@ python for data cleaning, data transformation, data visualisation and data analy
 ### dataset used
 the dataset used for this project can be accessed [here](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
-## reports (objective response derived from the [analysis]())
+## reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/Liquor%20analysis/liquor_analysis.ipynb))
 - #### is a certain type of liquor (red or white) associated with higher quality
   white liquor is associated with higher quality
 - #### do liquor with higher alcoholic content receive better ratings
