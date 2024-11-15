@@ -18,7 +18,7 @@ python for data cleaning, data transformation, data visualisation and data analy
 ### Dataset used
 The dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
 
-## Reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/Sales%20store%20analysis/sales_analysis.ipynb))
+### Reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/Sales%20store%20analysis/sales_analysis.ipynb))
 - #### Which category is best selling and most profitable
   technology is the best selling and most profitable
 - #### What are the best selling sub-category
