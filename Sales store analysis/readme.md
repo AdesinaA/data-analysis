@@ -1,35 +1,35 @@
 # Sales store analysis
 
-### task
-determine weak areas and opportunities for a sales store to boost their business growth.
+### Task
+Determine weak areas and opportunities for a sales store to boost their business growth.
 
-### objective
-- which category is best selling and most profitable
-- what are the best selling and most profitable sub-category
-- which is the top selling sub-category
-- which customer segment is most profitable
-- which is the preferred ship mode
-- which region is the most profitable
-- which city has the highest number of sales
+### Objective
+- Which category is best selling and most profitable
+- What are the best selling and most profitable sub-category
+- Which is the top selling sub-category
+- Which customer segment is most profitable
+- Which is the preferred ship mode
+- Which region is the most profitable
+- Which city has the highest number of sales
 
-### tools
+### Tools
 python for data cleaning, data transformation, data visualisation and data analysis
 
-### dataset used
-the dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
+### Dataset used
+The dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
 
-## reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/Sales%20store%20analysis/sales_analysis.ipynb))
-- #### which category is best selling and most profitable
+## Reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/Sales%20store%20analysis/sales_analysis.ipynb))
+- #### Which category is best selling and most profitable
   technology is the best selling and most profitable
-- #### what are the best selling sub-category
+- #### What are the best selling sub-category
   phones & chairs are the top two (2) best selling sub-category
-- #### which is the top selling sub-category
+- #### Which is the top selling sub-category
   binders, papers, furnishings and phones
-- #### which customer segments is most profitable
+- #### Which customer segments is most profitable
   consumer segment
-- #### which is the preferred ship mode
+- #### Which is the preferred ship mode
   standard class 
-- #### which region is the most profitable
+- #### Which region is the most profitable
   east and west region
-- #### which city has the highest number of sales
+- #### Which city has the highest number of sales
   new york city
