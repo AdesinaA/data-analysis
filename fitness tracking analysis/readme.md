@@ -14,7 +14,7 @@ Analyze fitness tracker app data to gain insights into how consumers are using t
 ### Dataset used
 - The dataset used for this project can be accessed [here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
-## Reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/fitness%20tracking%20analysis/fitness_data_analysis.ipynb))
+### Reports (objective response derived from the [analysis](https://github.com/AdesinaA/data-analysis/blob/main/fitness%20tracking%20analysis/fitness_data_analysis.ipynb))
 - #### What are the trends identified?
 
 Majority of users (84.2%) are using the app to track sedentary activities and not using it for tracking their health habits.
